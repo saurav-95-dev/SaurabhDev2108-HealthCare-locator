@@ -1,9 +1,6 @@
 # React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # SaurabhDev2108-HealthCare-locator
+
+With full fleged google Authentication system alongwith custom password login , the Application focus mainly to fetch the real time location of almost all hospitals of tier-1 cities.It can also fetch the current location of any random user who's logged into the application displaying Healthcare centers of his/her nearby location.
+
+Live-Site:https://saurabhdev-gmap-hospital.netlify.app/
