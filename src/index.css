@@ -1,0 +1,112 @@
+#address{
+  margin-top: 2rem;
+  font-weight: bold;
+  font-size: 45px;
+}
+
+.responsive-map{
+  overflow: hidden;
+  height:  0% ;
+  padding-bottom: 30%;
+  position: relative;
+}
+
+.responsive-map iframe{
+  border: 0;
+  height: 100%;
+  width: 100%;
+  left: 0%;
+  top: 0%;
+  position: absolute;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.address {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.buttons-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.button {
+  background-color: #3498db; /* Blue */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #2980b9; /* Darker Blue */
+}
+
+.button:nth-child(2) {
+  background-color: #2ecc71; /* Green */
+}
+
+.button:nth-child(3) {
+  background-color: #e74c3c; /* Red */
+}
+
+.button:nth-child(4) {
+  background-color: #f39c12; /* Orange */
+}
+
+.button:nth-child(5) {
+  background-color: #9b59b6; /* Purple */
+}
+
+.button:nth-child(6) {
+  background-color: #34495e; /* Dark Grey */
+}
+
+.use-location-button {
+  margin-left: 272px;
+  display: block;
+  margin-top: 10px;
+}
+
+.map-container {
+  margin-top: 8px;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.map {
+  width: 100%;
+  height: 400px;
+  border-radius: 8px;
+}
+
+.hospitals-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.hospitals-list li {
+  margin-bottom: 10px;
+}
