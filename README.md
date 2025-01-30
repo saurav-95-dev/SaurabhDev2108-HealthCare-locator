@@ -8,7 +8,7 @@
 Modern Alarm Clock
 
 #### ACKNOWLEDGEMENTS :
-None
+
 
 #### DESCRIPTION :
 
