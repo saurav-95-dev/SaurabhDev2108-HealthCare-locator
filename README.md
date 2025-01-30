@@ -13,7 +13,7 @@ None
 #### DESCRIPTION :
 
 #### TECHNOLOGIES :
-HTML , CSS , Javascript
+
 
 #### CONCEPTS AND TECHNIQUES :
 
